@@ -19,6 +19,7 @@
   "homepage": "https://github.com/saeedaltaf/FriendFinder#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "heroku": "^7.29.0",
     "path": "^0.12.7"
   }
 }
